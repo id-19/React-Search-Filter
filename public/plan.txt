@@ -1,0 +1,5 @@
+The Program will contain mainly two elements:
+1. Input element that takes text+
+Two buttons next to it that search the stored keys and add a key respectively
+
+2. A display element that shows the retrieved elements
